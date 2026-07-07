@@ -29,7 +29,7 @@ body {
     width: 80%;
     max-width: 900px;
     margin: 30px auto;
-    background-color: #b7eaf3;
+    background-color:  #c9f0f7;
     padding: 30px;
     border-radius: 12px; /* Arredonda as bordas */
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.15); /* Sombra */
@@ -43,8 +43,8 @@ body {
     display: flex;
     align-items: center;
     gap: 20px;
-    background-color: #c9f0f7; /* Cor do cabeçalho */
-    color: #c9f0f7(181, 237, 241);
+    background-color: #18798a; /* Cor do cabeçalho */
+    color: #c1d0d3(181, 237, 241);
     padding: 20px;
     border-radius: 10px;
 }
@@ -107,6 +107,10 @@ li {
     Caixa dos projetos.
     Pode ser usada para destacar experiências ou trabalhos escolares.
 */
+.btnsite{
+color:white;
+background-color: #18798a;    
+}
 .projeto {
     background-color: #f2f6fa;
     padding: 15px;
